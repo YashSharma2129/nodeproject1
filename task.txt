@@ -1,0 +1,18 @@
+REST API -JSON 
+
+GET/users-HTML DOcument Reader 
+GET/api/users -List All users JSON
+
+GET /api/users 1-Get the user with id 1
+GEt/api/ users/2-Get the iser with id 2
+
+Dynamic PAth Parameters 
+GET/api/users/:id
+:id->Variable |Dynamic
+
+POST/api/users- CReate new user 
+
+
+PATCH/api/ users /1-Edit the user with id 1
+
+DELETE/api/users/1- Delete the user with id 1 
